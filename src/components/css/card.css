@@ -1,0 +1,11 @@
+.card-body {
+    display: flex;
+    width: 400px;
+    height: 90%;
+    background-color: #392F5A;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    box-shadow: #9DD9D2 8px 8px 8px;
+}
